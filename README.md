@@ -13,6 +13,9 @@ This repository provides pre-configured rules and prompts that teach AI coding a
 # For Claude
 cp .claude/agents/nia-oracle.md ~/.claude/agents/
 
+# For Codex
+cp .codex/prompts/nia-oracle.md ~/.codex/prompts/
+
 # For Cursor  
 cp .cursor/rules/nia-oracle.mdc ~/.cursor/rules/
 
